@@ -19,3 +19,7 @@ int main() {
     std::cout << "Hello, world!" << std::endl;
 }
 ```
+| Name | Age | Country |
+|:------:|:-----:|:---------:|
+| Alice | 25 | USA |
+| Bob   | 30 | Japan |
